@@ -1,0 +1,8 @@
+*.swp
+.idea/
+.vscode/
+.vs/
+/build*/
+/cmake-build-*/
+compile_commands.json
+CMakeSettings.json
